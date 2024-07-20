@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominic! A Passionate Cybersecurity Professional </h1>
+<h1>Hi, I'm Dominic! Passionate Cybersecurity Professional </h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
