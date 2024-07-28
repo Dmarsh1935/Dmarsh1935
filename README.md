@@ -12,12 +12,11 @@
 
 
 
-<h2>👨‍💻 Certifications:</h2>
+<h2> Certifications:</h2>
 - CompTIA Security+ <br> </br>
 - CompTIA Network+ <br> </br>
 - Cybersecurity Analyst (Leveld Careers) <br> </br>
 - The Threat Within (IQ4) <br> </br>
-
 
 
 
