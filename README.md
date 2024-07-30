@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dominic! A Passionate Cybersecurity Student. </h1>
 
-<h1>👨‍💻 My Cybersecurity Projects:</h1>
+<h1>👨‍💻 My Projects:</h1>
 
 - <b> Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Dmarsh1935/Azure-SOC)
