@@ -15,7 +15,7 @@
 - CompTIA Security+ 
 - CompTIA Network+
 - Cybersecurity Analyst (Leveld Careers)
-- The Threat Within (IQ4) <br> </br>
+- The Threat Within (IQ4) 
 
 
 ## LetsDefend Badges:
