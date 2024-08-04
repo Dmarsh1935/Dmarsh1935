@@ -15,7 +15,7 @@
 - CompTIA Security+ 
 - CompTIA Network+
 - Cybersecurity Analyst (Leveld Careers)
-- AZ-900
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 - The Threat Within (IQ4) 
 
 
