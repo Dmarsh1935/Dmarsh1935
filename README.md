@@ -32,6 +32,7 @@
 - [Phishing Analyzer](https://app.letsdefend.io/my-badges/detail/b009b1d5-8d03-4c5e-bd04-a5fbe49d5fd2)
 - [Incident Handler](https://app.letsdefend.io/my-badges/detail/6b7579b3-3081-4458-8f40-77b53f2fab24)
 - [Incident Handler - 2](https://app.letsdefend.io/my-badges/detail/6b7579b3-3081-4458-8f40-77b53f2fab24)
+- [How to Investigate a SIEM Alert](https://app.letsdefend.io/my-badges/detail/f866a069133b4c9c8dc51b1839dff3f3)
 
 
 
