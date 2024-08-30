@@ -2,12 +2,10 @@
 
 <h1>👨‍💻 My Projects:</h1>
 
-- <b> Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Dmarsh1935/Azure-SOC)
   - [Vulnerability Management](https://github.com/Dmarsh1935/Vulnerability-Management)
-
-- <b> Other Projects </b>
   - [Active Directory Home Lab](https://github.com/Dmarsh1935/AD-Lab)
+  - [Splunk Implementation](https://github.com/Dmarsh1935/Splunk-Implementation)
 
 
 
