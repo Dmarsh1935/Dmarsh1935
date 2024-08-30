@@ -34,6 +34,7 @@
 - [How to Investigate a SIEM Alert](https://app.letsdefend.io/my-badges/detail/f866a069133b4c9c8dc51b1839dff3f3)
 - [Dynamic Analyst](https://app.letsdefend.io/my-badges/detail/801592c1db7f4c79b5eade41a0c7d310)
 - [Splunk Engineer](https://app.letsdefend.io/my-badges/detail/cd19bcd8b32146668ca55b61afd5d9ef)
+- [SIEM 101](https://app.letsdefend.io/my-badges/detail/5c91c895e22d4c6e9d51670bfd8bf77b)
 
 
 
