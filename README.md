@@ -5,6 +5,7 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Dmarsh1935/Azure-SOC)
   - [Vulnerability Management](https://github.com/Dmarsh1935/Vulnerability-Management)
   - [Active Directory Home Lab](https://github.com/Dmarsh1935/AD-Lab)
+  - [Splunk Implementation]
 
 
 
@@ -32,7 +33,7 @@
 - [Incident Handler - 2](https://app.letsdefend.io/my-badges/detail/6b7579b3-3081-4458-8f40-77b53f2fab24)
 - [How to Investigate a SIEM Alert](https://app.letsdefend.io/my-badges/detail/f866a069133b4c9c8dc51b1839dff3f3)
 - [Dynamic Analyst](https://app.letsdefend.io/my-badges/detail/801592c1db7f4c79b5eade41a0c7d310)
-
+- [Splunk Engineer](https://app.letsdefend.io/my-badges/detail/cd19bcd8b32146668ca55b61afd5d9ef)
 
 
 
