@@ -35,7 +35,7 @@
 - [Dynamic Analyst](https://app.letsdefend.io/my-badges/detail/801592c1db7f4c79b5eade41a0c7d310)
 - [Splunk Engineer](https://app.letsdefend.io/my-badges/detail/cd19bcd8b32146668ca55b61afd5d9ef)
 - [SIEM 101](https://app.letsdefend.io/my-badges/detail/5c91c895e22d4c6e9d51670bfd8bf77b)
-
+- [Office Document Analyzer](https://app.letsdefend.io/my-rewards/detail/cb531b3bcf1249a2887a584c254d161f)
 
 
 
