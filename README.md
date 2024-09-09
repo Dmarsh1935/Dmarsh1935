@@ -38,6 +38,7 @@
 - [Office Document Analyzer](https://app.letsdefend.io/my-rewards/detail/cb531b3bcf1249a2887a584c254d161f)
 - [MSHTML Analyzer](https://app.letsdefend.io/my-rewards/detail/a9a69b9898554ee19e32b037735e8457)
 - [Lab Builder](https://app.letsdefend.io/my-rewards/detail/37abdc4a69964fa6a7c287fcd201d1ab)
+- [Hunter](https://app.letsdefend.io/my-rewards/detail/e4f91535945648129f301b814f6db468)
 
 
 
