@@ -6,6 +6,7 @@
   - [Vulnerability Management](https://github.com/Dmarsh1935/Vulnerability-Management)
   - [Active Directory Home Lab](https://github.com/Dmarsh1935/AD-Lab)
   - [Splunk Implementation](https://github.com/Dmarsh1935/Splunk-Implementation)
+  - [Creating a SOC Environment with VirtualBox](https://github.com/Dmarsh1935/Creating-a-SOC-Environment-with-VirtualBox)
 
 
 
