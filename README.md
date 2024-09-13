@@ -40,6 +40,7 @@
 - [Lab Builder](https://app.letsdefend.io/my-rewards/detail/37abdc4a69964fa6a7c287fcd201d1ab)
 - [Hunter](https://app.letsdefend.io/my-rewards/detail/e4f91535945648129f301b814f6db468)
 - [Network Analyzer](https://app.letsdefend.io/my-rewards/detail/29677bad98be4e34bea0bc722572704d)
+- [Security Solutions](https://app.letsdefend.io/my-rewards/detail/81f272e70a1f4acc8479a28887e5bcf4)
 
 
 
