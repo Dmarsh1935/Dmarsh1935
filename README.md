@@ -42,6 +42,7 @@
 - [Network Analyzer](https://app.letsdefend.io/my-rewards/detail/29677bad98be4e34bea0bc722572704d)
 - [Security Solutions](https://app.letsdefend.io/my-rewards/detail/81f272e70a1f4acc8479a28887e5bcf4)
 - [Incident Management](https://app.letsdefend.io/my-rewards/detail/eea3af56fda144efb77a1bb428b7fa68)
+- [VirusTotal](https://app.letsdefend.io/my-rewards/detail/707f4325f65641b2a3ea512e551381ac)
 
 
 
