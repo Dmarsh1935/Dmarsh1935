@@ -47,6 +47,7 @@
 - [IT Security Expert](https://app.letsdefend.io/my-rewards/detail/3c9172aa39674587bc98811ec2e467e9)
 - [Threat Intelligence](https://app.letsdefend.io/my-rewards/detail/a4020a86ac22483fa7db3fe6ceec5edb)
 - [Hunter 2](https://app.letsdefend.io/my-rewards/detail/377aba55355b48b392950cd185687014)
+- [Detector](https://app.letsdefend.io/my-rewards/detail/11ab502e0f3e4b0ea58e1d4ab0996fc5)
 
 
 
