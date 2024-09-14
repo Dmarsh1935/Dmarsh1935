@@ -46,6 +46,7 @@
 - [VirusTotal](https://app.letsdefend.io/my-rewards/detail/707f4325f65641b2a3ea512e551381ac)
 - [IT Security Expert](https://app.letsdefend.io/my-rewards/detail/3c9172aa39674587bc98811ec2e467e9)
 - [Threat Intelligence](https://app.letsdefend.io/my-rewards/detail/a4020a86ac22483fa7db3fe6ceec5edb)
+- [Hunter 2](https://app.letsdefend.io/my-rewards/detail/377aba55355b48b392950cd185687014)
 
 
 
