@@ -16,7 +16,8 @@
 - CompTIA Network+
 - Cybersecurity Analyst (Leveld Careers)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- The Threat Within (IQ4) 
+- The Threat Within (IQ4)
+- SOC Analyst Learning Path (LetsDefend)
 
 
 ## LetsDefend Badges:
