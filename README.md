@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominic! A Passionate Cybersecurity Student. </h1>
+<h1>Hi, I'm Dominic! I'm a Security Engineer, helping lead containment, eradication, and recovery. </h1>
 
 <h1>👨‍💻 My Projects:</h1>
 
